@@ -151,14 +151,6 @@ A API retorna respostas padronizadas para erros, como:
 * 400 Bad Request para dados inválidos
 * 404 Not Found para recursos inexistentes
 
-Exemplo:
-
-```json
-{
-  "erro": "Task não encontrada"
-}
-```
-
 ---
 
 ## Objetivo do projeto
